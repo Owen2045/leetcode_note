@@ -30,3 +30,6 @@ Only one valid answer exists.
  
 
 Follow-up: Can you come up with an algorithm that is less than O(n2) time complexity?
+
+### 1. 用迴圈硬幹，直接找目標。問題: 太慢
+### 2. 用mapping的方式找目標。
