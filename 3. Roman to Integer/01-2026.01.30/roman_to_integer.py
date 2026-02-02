@@ -1,3 +1,6 @@
+from typing import List
+
+
 class Solution:
     def romanToInt(self, s: str) -> int:
         rm_map = {
