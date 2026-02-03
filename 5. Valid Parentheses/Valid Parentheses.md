@@ -52,4 +52,4 @@ Hint 3
 When you encounter a closing bracket, check if the top of the stack was the opening for it. If yes, pop it from the stack. Otherwise, return false.
 
 ## 1. 先跑回圈把左括弧加到list 然後用後進先出的概念取pop(-1) 比對是否相等，並且程式結束時list裡面還有沒有元素
-## 2. 只要用一張map就行
+## 2. 只要用一張map就行，並且注意程式可提早return的地方
