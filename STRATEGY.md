@@ -41,41 +41,41 @@ Sun     - 複習本週最弱的一題（re-attempt，不看解答）
 - [x] #49  Group Anagrams `Medium`
 - [x] #380 Insert Delete GetRandom O(1) `Medium`
 - [x] #146 LRU Cache `Medium`
-- [ ] #242 Valid Anagram `Easy`
+- [x] #242 Valid Anagram `Easy`
 - [ ] #383 Ransom Note `Easy`
 
 ### Heap / Priority Queue
-- [ ] #703 Kth Largest Element in a Stream `Easy`
-- [ ] #347 Top K Frequent Elements `Medium`
-- [ ] #621 Task Scheduler `Medium`
+- [x] #703 Kth Largest Element in a Stream `Easy`
+- [x] #347 Top K Frequent Elements `Medium`
+- [x] #621 Task Scheduler `Medium`
 - [ ] #973 K Closest Points to Origin `Medium`
 
 ### Graph BFS/DFS
-- [ ] #733 Flood Fill `Easy`
-- [ ] #1971 Find if Path Exists in Graph `Easy`
+- [x] #733 Flood Fill `Easy`
+- [x] #1971 Find if Path Exists in Graph `Easy`
 - [ ] #200 Number of Islands `Medium`
 - [ ] #207 Course Schedule `Medium`
 - [ ] #133 Clone Graph `Medium`
 
 ### Sliding Window
-- [ ] #643 Maximum Average Subarray I `Easy`
+- [x] #643 Maximum Average Subarray I `Easy`
 - [ ] #3   Longest Substring Without Repeating Characters `Medium`
 - [ ] #424 Longest Repeating Character Replacement `Medium`
 - [ ] #567 Permutation in String `Medium`
 
 ### Binary Search
-- [ ] #704 Binary Search `Easy`
-- [ ] #278 First Bad Version `Easy`
+- [x] #704 Binary Search `Easy`
+- [x] #278 First Bad Version `Easy`
 - [ ] #33  Search in Rotated Sorted Array `Medium`
 - [ ] #153 Find Minimum in Rotated Sorted Array `Medium`
 
 ### System Design
-- [ ] #232 Implement Queue using Stacks `Easy`
+- [x] #232 Implement Queue using Stacks `Easy`
 - [ ] #155 Min Stack `Medium`
 - [ ] #208 Implement Trie `Medium`
 
 ### DP（備用，JD 未強調，時間不夠可跳過）
-- [ ] #70  Climbing Stairs `Easy`
+- [x] #70  Climbing Stairs `Easy`
 - [ ] #746 Min Cost Climbing Stairs `Easy`
 - [ ] #338 Counting Bits `Easy`
 - [ ] #322 Coin Change `Medium`
