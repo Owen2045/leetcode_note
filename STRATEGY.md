@@ -61,7 +61,7 @@ Sun     - 複習本週最弱的一題（re-attempt，不看解答）
 - [x] #643 Maximum Average Subarray I `Easy`
 - [ ] #3   Longest Substring Without Repeating Characters `Medium`
 - [ ] #424 Longest Repeating Character Replacement `Medium`
-- [ ] #567 Permutation in String `Medium`
+- [x] #567 Permutation in String `Medium`
 
 ### Binary Search
 - [x] #704 Binary Search `Easy`
@@ -71,7 +71,7 @@ Sun     - 複習本週最弱的一題（re-attempt，不看解答）
 
 ### System Design
 - [x] #232 Implement Queue using Stacks `Easy`
-- [ ] #155 Min Stack `Medium`
+- [x] #155 Min Stack `Medium`
 - [ ] #208 Implement Trie `Medium`
 
 ### DP（備用，JD 未強調，時間不夠可跳過）
@@ -146,6 +146,15 @@ Sun     - 複習本週最弱的一題（re-attempt，不看解答）
 | 2026/02/09 | #380 | Insert Delete GetRandom O(1) | Medium | |
 | 2026/02/09 | #238 | Product of Array Except Self | Medium | |
 | 2026/02/09 | #134 | Gas Station | Medium | |
+| 2026/04/15 | #217 | Contains Duplicate | Easy | |
+| 2026/04/15 | #49  | Group Anagrams | Medium | |
+| 2026/04/16 | #146 | LRU Cache | Medium | |
+| 2026/04/16 | #703 | Kth Largest Element in a Stream | Easy | |
+| 2026/04/16 | #733 | Flood Fill | Easy | |
+| 2026/04/16 | #704 | Binary Search | Easy | |
+| 2026/04/16 | #347 | Top K Frequent Elements | Medium | |
+| 2026/04/16 | #643 | Maximum Average Subarray I | Easy | |
+| 2026/04/16 | #155 | Min Stack | Medium | |
 
 ---
 
@@ -160,14 +169,16 @@ Sun     - 複習本週最弱的一題（re-attempt，不看解答）
 7.  `Easy`   [#1971 Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)（Graph）
 8.  `Medium` [#621 Task Scheduler](https://leetcode.com/problems/task-scheduler/)（Heap，對應 Celery）
 9.  `Easy`   [#278 First Bad Version](https://leetcode.com/problems/first-bad-version/)（Binary Search）
-10. `Easy`   [#70 Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)（DP 熱身）
-11. `Medium` [#200 Number of Islands](https://leetcode.com/problems/number-of-islands/)（Graph BFS/DFS）
-12. `Easy`   [#232 Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)（System Design 熱身）
-13. `Medium` [#3 Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)（Sliding Window）
-14. `Easy`   [#746 Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)（DP）
-15. `Medium` [#207 Course Schedule](https://leetcode.com/problems/course-schedule/)（拓樸排序，對應微服務依賴）
-16. `Easy`   [#338 Counting Bits](https://leetcode.com/problems/counting-bits/)（DP）
-17. `Medium` [#973 K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)（Heap）
-18. `Easy`   [#383 Ransom Note](https://leetcode.com/problems/ransom-note/)（Hash Map）
+10. `Medium` [#200 Number of Islands](https://leetcode.com/problems/number-of-islands/)（Graph BFS/DFS）
+11. `Easy`   [#232 Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)（System Design 熱身）
+12. `Medium` [#3 Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)（Sliding Window）
+13. `Medium` [#207 Course Schedule](https://leetcode.com/problems/course-schedule/)（拓樸排序，對應微服務依賴）
+14. `Medium` [#424 Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)（Sliding Window）
+15. `Medium` [#973 K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)（Heap）
+16. `Easy`   [#383 Ransom Note](https://leetcode.com/problems/ransom-note/)（Hash Map）
+17. `Medium` [#155 Min Stack](https://leetcode.com/problems/min-stack/)（System Design）
+18. `Medium` [#567 Permutation in String](https://leetcode.com/problems/permutation-in-string/)（Sliding Window）
 19. `Medium` [#33 Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)（Binary Search）
-20. `Medium` [#208 Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/)（System Design，對應搜尋優化）
+20. `Medium` [#133 Clone Graph](https://leetcode.com/problems/clone-graph/)（Graph）
+21. `Medium` [#153 Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)（Binary Search）
+22. `Medium` [#208 Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/)（System Design，對應搜尋優化）

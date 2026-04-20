@@ -1,25 +1,31 @@
 from typing import List
 from collections import Counter
 
-class MyQueue:
-    def lengthOfLongestSubstring(self, s: str) -> int:
 
-        char = set()
-        left = 0
-        ans = 0
+class Solution:
+    def search(self, nums: List[int], target: int) -> int:
+        start = 0
+        end = len(nums) - 1
+        while start <= end:
+            mid = start + (end - start) // 2
+            
+            if nums[mid] == target:
+                return mid
+            # 切一半後 判斷哪邊是正序
+            if nums[start] <= nums[mid]:
+                # 左邊是正序
+                if nums[start] <= target < nums[mid]:
+                    end = mid - 1
+                else:
+                    start = mid + 1
+            else:
+                if nums[mid] < target <= nums[end]:
+                    start = mid + 1
+                else:
+                    end = mid - 1
+        return -1
 
-        for right in range(len(s)):
-
-            while s[right] in char:
-                char.remove(s[left])
-                left += 1
-
-            char.add(s[right])
-            ans = max(ans, right - left +1)
-        return ans
-    
-
-s = "bbbbb"
-a = MyQueue()
-b = a.lengthOfLongestSubstring(s)
+a = Solution()
+b = a.search([4,5,6,7,0,1,2], 0)
 print(b)
+
