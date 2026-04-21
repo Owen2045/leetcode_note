@@ -1,31 +1,31 @@
 from typing import List
 from collections import Counter
+from typing import Optional
 
+# Definition for singly-linked list.
+class ListNode:
+    def __init__(self, val=0, next=None):
+        self.val = val
+        self.next = next
+        
+head = ListNode(1)
+head.next = ListNode(2)
+head.next.next = ListNode(3)        
+        
+def print_list(node):
+    while node:
+        print(node.val, end=" → ")
+        node = node.next
+    print("None")        
 
 class Solution:
-    def search(self, nums: List[int], target: int) -> int:
-        start = 0
-        end = len(nums) - 1
-        while start <= end:
-            mid = start + (end - start) // 2
-            
-            if nums[mid] == target:
-                return mid
-            # 切一半後 判斷哪邊是正序
-            if nums[start] <= nums[mid]:
-                # 左邊是正序
-                if nums[start] <= target < nums[mid]:
-                    end = mid - 1
-                else:
-                    start = mid + 1
-            else:
-                if nums[mid] < target <= nums[end]:
-                    start = mid + 1
-                else:
-                    end = mid - 1
-        return -1
-
-a = Solution()
-b = a.search([4,5,6,7,0,1,2], 0)
-print(b)
-
+    def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        prev = None
+        curr = head        
+        
+        next_node = curr.next
+        print(next_node)
+        
+# head = [1,2,3,4,5]
+# a = Solution()
+# a.reverseList(head)

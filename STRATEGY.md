@@ -42,7 +42,7 @@ Sun     - 複習本週最弱的一題（re-attempt，不看解答）
 - [x] #380 Insert Delete GetRandom O(1) `Medium`
 - [x] #146 LRU Cache `Medium`
 - [x] #242 Valid Anagram `Easy`
-- [ ] #383 Ransom Note `Easy`
+- [x] #383 Ransom Note `Easy`
 
 ### Heap / Priority Queue
 - [x] #703 Kth Largest Element in a Stream `Easy`
@@ -53,6 +53,9 @@ Sun     - 複習本週最弱的一題（re-attempt，不看解答）
 ### Graph BFS/DFS
 - [x] #733 Flood Fill `Easy`
 - [x] #1971 Find if Path Exists in Graph `Easy`
+- [ ] #695 Max Area of Island `Easy`
+- [ ] #617 Merge Two Binary Trees `Easy`
+- [ ] #100 Same Tree `Easy`
 - [ ] #200 Number of Islands `Medium`
 - [ ] #207 Course Schedule `Medium`
 - [ ] #133 Clone Graph `Medium`
@@ -74,12 +77,16 @@ Sun     - 複習本週最弱的一題（re-attempt，不看解答）
 - [x] #155 Min Stack `Medium`
 - [ ] #208 Implement Trie `Medium`
 
-### DP（備用，JD 未強調，時間不夠可跳過）
-- [x] #70  Climbing Stairs `Easy`
-- [ ] #746 Min Cost Climbing Stairs `Easy`
-- [ ] #338 Counting Bits `Easy`
-- [ ] #322 Coin Change `Medium`
-- [ ] #300 Longest Increasing Subsequence `Medium`
+### 高頻 Easy 補充
+- [ ] #409 Longest Palindrome `Easy`
+- [ ] #206 Reverse Linked List `Easy`
+- [ ] #141 Linked List Cycle `Easy`
+- [ ] #21  Merge Two Sorted Lists `Easy`
+- [ ] #104 Maximum Depth of Binary Tree `Easy`
+- [ ] #226 Invert Binary Tree `Easy`
+- [ ] #724 Find Pivot Index `Easy`
+- [ ] #977 Squares of a Sorted Array `Easy`
+- [ ] #543 Diameter of Binary Tree `Easy`
 
 ---
 
@@ -182,3 +189,15 @@ Sun     - 複習本週最弱的一題（re-attempt，不看解答）
 20. `Medium` [#133 Clone Graph](https://leetcode.com/problems/clone-graph/)（Graph）
 21. `Medium` [#153 Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)（Binary Search）
 22. `Medium` [#208 Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/)（System Design，對應搜尋優化）
+23. `Easy`   [#206 Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)（高頻 Easy）
+24. `Easy`   [#104 Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)（Tree DFS）
+25. `Easy`   [#226 Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)（Tree DFS）
+26. `Easy`   [#141 Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)（高頻 Easy）
+27. `Easy`   [#695 Max Area of Island](https://leetcode.com/problems/max-area-of-island/)（Graph BFS/DFS）
+28. `Easy`   [#21 Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)（高頻 Easy）
+29. `Easy`   [#409 Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)（Hash Map）
+30. `Easy`   [#617 Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)（Tree DFS）
+31. `Easy`   [#100 Same Tree](https://leetcode.com/problems/same-tree/)（Tree DFS）
+32. `Easy`   [#724 Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)（Prefix Sum）
+33. `Easy`   [#543 Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)（Tree DFS）
+34. `Easy`   [#977 Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)（Two Pointer）
