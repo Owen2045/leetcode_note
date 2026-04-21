@@ -1,1 +1,5 @@
 /mypy_cache
+.cache
+__pycache__
+*.pyc
+.claude

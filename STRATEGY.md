@@ -66,7 +66,7 @@ Sun     - 複習本週最弱的一題（re-attempt，不看解答）
 ### Binary Search
 - [x] #704 Binary Search `Easy`
 - [x] #278 First Bad Version `Easy`
-- [ ] #33  Search in Rotated Sorted Array `Medium`
+- [x] #33  Search in Rotated Sorted Array `Medium`
 - [ ] #153 Find Minimum in Rotated Sorted Array `Medium`
 
 ### System Design
