@@ -82,7 +82,7 @@ Sun     - 複習本週最弱的一題（re-attempt，不看解答）
 - [ ] #206 Reverse Linked List `Easy`
 - [ ] #141 Linked List Cycle `Easy`
 - [ ] #21  Merge Two Sorted Lists `Easy`
-- [ ] #104 Maximum Depth of Binary Tree `Easy`
+- [x] #104 Maximum Depth of Binary Tree `Easy`
 - [ ] #226 Invert Binary Tree `Easy`
 - [ ] #724 Find Pivot Index `Easy`
 - [ ] #977 Squares of a Sorted Array `Easy`
