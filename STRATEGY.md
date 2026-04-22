@@ -56,13 +56,13 @@ Sun     - 複習本週最弱的一題（re-attempt，不看解答）
 - [ ] #695 Max Area of Island `Easy`
 - [ ] #617 Merge Two Binary Trees `Easy`
 - [ ] #100 Same Tree `Easy`
-- [ ] #200 Number of Islands `Medium`
-- [ ] #207 Course Schedule `Medium`
+- [x] #200 Number of Islands `Medium`
+- [x] #207 Course Schedule `Medium`
 - [ ] #133 Clone Graph `Medium`
 
 ### Sliding Window
 - [x] #643 Maximum Average Subarray I `Easy`
-- [ ] #3   Longest Substring Without Repeating Characters `Medium`
+- [x] #3   Longest Substring Without Repeating Characters `Medium`
 - [ ] #424 Longest Repeating Character Replacement `Medium`
 - [x] #567 Permutation in String `Medium`
 
@@ -162,6 +162,15 @@ Sun     - 複習本週最弱的一題（re-attempt，不看解答）
 | 2026/04/16 | #347 | Top K Frequent Elements | Medium | |
 | 2026/04/16 | #643 | Maximum Average Subarray I | Easy | |
 | 2026/04/16 | #155 | Min Stack | Medium | |
+| 2026/04/17 | #242 | Valid Anagram | Easy | |
+| 2026/04/18 | #1971 | Find if Path Exists in Graph | Easy | |
+| 2026/04/18 | #621 | Task Scheduler | Medium | |
+| 2026/04/18 | #278 | First Bad Version | Easy | |
+| 2026/04/19 | #70  | Climbing Stairs | Easy | |
+| 2026/04/19 | #200 | Number of Islands | Medium | |
+| 2026/04/20 | #232 | Implement Queue using Stacks | Easy | |
+| 2026/04/21 | #3   | Longest Substring Without Repeating Characters | Medium | |
+| 2026/04/21 | #207 | Course Schedule | Medium | |
 
 ---
 
