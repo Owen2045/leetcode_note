@@ -50,6 +50,29 @@
 
 ---
 
+## 當前進度快照（2026/04/22）
+
+### 已完成主題
+| 主題 | 狀態 |
+|------|------|
+| Hash Map / Cache Design | ✅ 全部完成 |
+| Heap / Priority Queue | #703 #347 #621 完成，剩 #973 |
+| Graph BFS/DFS | #733 #1971 #200 #207 完成，剩 #133 |
+| Sliding Window | #643 #3 #567 完成，剩 #424 |
+| Binary Search | #704 #278 #33 完成，剩 #153 |
+| System Design | #232 #155 完成，剩 #208 |
+
+### 剩餘重點題（4/22–4/23 最後兩天新題）
+1. `Medium` #424 Longest Repeating Character Replacement
+2. `Medium` #973 K Closest Points to Origin
+3. `Medium` #133 Clone Graph
+4. `Medium` #153 Find Minimum in Rotated Sorted Array
+5. `Medium` #208 Implement Trie
+
+> 4/24 起進入重刷模式，不做新題。
+
+---
+
 ## 協作偏好
 
 - 每次對話開始前先讀 STRATEGY.md 確認當前進度
