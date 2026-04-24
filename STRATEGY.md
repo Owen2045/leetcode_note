@@ -53,7 +53,7 @@ Sun     - 複習本週最弱的一題（re-attempt，不看解答）
 ### Graph BFS/DFS
 - [x] #733 Flood Fill `Easy`
 - [x] #1971 Find if Path Exists in Graph `Easy`
-- [ ] #695 Max Area of Island `Easy`
+- [x] #695 Max Area of Island `Easy`
 - [ ] #617 Merge Two Binary Trees `Easy`
 - [ ] #100 Same Tree `Easy`
 - [x] #200 Number of Islands `Medium`
