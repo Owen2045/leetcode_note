@@ -79,7 +79,7 @@ Sun     - 複習本週最弱的一題（re-attempt，不看解答）
 
 ### 高頻 Easy 補充
 - [ ] #409 Longest Palindrome `Easy`
-- [ ] #206 Reverse Linked List `Easy`
+- [x] #206 Reverse Linked List `Easy`
 - [ ] #141 Linked List Cycle `Easy`
 - [ ] #21  Merge Two Sorted Lists `Easy`
 - [x] #104 Maximum Depth of Binary Tree `Easy`
